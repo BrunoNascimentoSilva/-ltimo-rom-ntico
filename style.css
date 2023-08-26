@@ -11,6 +11,9 @@
 background: linear-gradient(90deg, #ff0070 0%, rgba(255,0,112,1) 0%, rgba(213,11,11,1) 100%);
 
     padding: 1rem;
+        display: flex;
+  justify-content: center;
+  align-items: center;
   }
   
   h1 {
